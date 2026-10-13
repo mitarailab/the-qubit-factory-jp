@@ -183,9 +183,9 @@ ENTBLOBS.makeBlobs(),
   "ontouchstart" in window || navigator.maxTouchPoints
     ? (FIELD.isTouch = !0)
     : (FIELD.isTouch = !1),
-  (OPTS.musicOn = !0),
+  (OPTS.musicOn = !1),
   (OPTS.music = 0.5),
-  (OPTS.sfxOn = !0),
+  (OPTS.sfxOn = !1),
   (OPTS.sfx = 0.5),
   (OPTS.autoResize = !0),
   (OPTS.isScrollable = !1),
