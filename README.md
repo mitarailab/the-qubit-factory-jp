@@ -19,7 +19,7 @@ A puzzle/construction game about manipulating **qubits** (quantum bits) to solve
 kosukemtr が日本語化した非公式版です。原作者・AWS による公式の日本語版ではありません。
 量子計算を楽しく学べる教材を開発し、ソースコードを公開してくださった原作者・開発関係者の皆様に感謝します。
 
-- [日本語版を遊ぶ](https://mitarai.qc.ee.es.osaka-u.ac.jp/the-qubit-factory-jp/)
+- [日本語版を遊ぶ](https://mitarailab.github.io/the-qubit-factory-jp/)
 - 原作の基準コミット: [`42cd5958a55efc7142e74811acf6ff44f899c010`](https://github.com/awslabs/the-qubit-factory/commit/42cd5958a55efc7142e74811acf6ff44f899c010)
 - 主な変更: `scripts.min.js` の整形・分割、画面表示・会話・説明文の日本語化、日本語表示に関する調整、`index.html` のスクリプト読み込み変更。
 - `scripts.min.js` は原作のまま保持しています。実際の日本語版は `scripts/` 内のファイルを読み込みます。
